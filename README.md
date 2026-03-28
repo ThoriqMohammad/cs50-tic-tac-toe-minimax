@@ -1,5 +1,5 @@
 # Tic-Tac-Toe with Minimax Algorithm – CS50 Final Project
-#### Video Demo:  <https://youtu.be/your-video-id>
+#### Video Demo:  <https://youtu.be/S1RP12MBxMg>
 #### Description:
 This project is a command-line implementation of the classic Tic‑Tac‑Toe game where you play against an **unbeatable computer opponent**. The computer uses the **minimax algorithm** to play optimally – you can never win, only draw or lose. The game is written entirely in C and features a clean, interactive interface.
 
